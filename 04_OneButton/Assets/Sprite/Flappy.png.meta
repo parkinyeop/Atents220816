@@ -566,7 +566,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TitleTap
+      name: Flappy_28
       rect:
         serializedVersion: 2
         x: 292
@@ -1726,7 +1726,6 @@ TextureImporter:
       Number_Small_1: -38722524
       Mark_New: -1998624088
       Medal_Gold: -483445479
-      TitleTap: -361988215
       Number_Middle_2: -832938655
       Number_Small_2: 1405822378
       Flappy_13: 707524986
@@ -1770,8 +1769,9 @@ TextureImporter:
       Flappy_27: 1944515081
       Pipe_Top: 931611700
       Number_Small_6: 1808844411
-      Number_Middle_3: -1992317205
+      Flappy_28: -361988215
       Bird1_3: 810418618
+      Number_Middle_3: -1992317205
       Flappy_0: 1436309528
   spritePackingTag: 
   pSDRemoveMatte: 0
